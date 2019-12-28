@@ -1,6 +1,6 @@
 # DCGAN
 
-The aim of the project is to generate the fake human faces using deep convolutional GAN.
+The aim of the project is to generate fake human faces using deep convolutional GAN.
 
 
 ## Fake Images
