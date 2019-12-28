@@ -1,1 +1,5 @@
 data/celebs/
+.DS_Store
+.floydexpt
+.floydignore
+floyd.yml
