@@ -4,7 +4,7 @@ The aim of the project is to generate the fake human faces using deep convolutio
 
 
 ## Fake Images
-![Image of variations](https://raw.githubusercontent.com/code-asc/DCGAN/master/Figure_1.png " ")
+![Image of variations](https://raw.githubusercontent.com/code-asc/DCGAN/master/Figure_1.jpeg " ")
 
 ## Installation
 
