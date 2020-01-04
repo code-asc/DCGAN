@@ -6,7 +6,7 @@ import torchvision.utils as vutils
 
 required_samples = 16
 device= 'gpu' if torch.cuda.is_available() else 'cpu'
-path = '/Users/sandeepchowdaryannabathuni/downloads/generator_model.mdl'
+path = './generator_model.mdl'
 
 model = torch.load(path, map_location=device)
 
